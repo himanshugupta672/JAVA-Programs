@@ -8,23 +8,18 @@ class Solution {
         stack.push(nums2[m-1]);
         for(int i= m-2;i>=0;i--){
 
-            if(nums2[i]<stack.peek()){
-                hm.put(nums2[i],stack.peek());
-                stack.push(nums2[i]);
-                continue;
-            }
+           
             while(!stack.isEmpty() && stack.peek()<= nums2[i]){
                 stack.pop();
             }
 
             if(stack.isEmpty()){
                 hm.put(nums2[i],-1);
-                stack.push(nums2[i]);
             }
             else{
-                hm.put(nums2[i],stack.peek());
-                stack.push(nums2[i]);
+                hm.put(nums2[i],stack.peek()); 
             }
+            stack.push(nums2[i]);
         }
 
         for(int i=0;i<n;i++){
