@@ -1,13 +1,36 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int l = 0;
-        int r = nums.length-1;
+        int one=0;
+        int two=0;
+        int zero=0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]==0){
+                zero++;
+            }else if(nums[i]==1){
+                one++;
+            }else{
+                two++;
+            }
+        }
+        ArrayList<Integer> ans = new ArrayList<>();
+        for(int i=0;i<zero;i++){
+            ans.add(0);
+        }
+        for(int i=0;i<one;i++){
+            ans.add(1);
+        }
+        for(int i=0;i<two;i++){
+            ans.add(2);
+        }
 
-        mergeSort(nums,l,r);
+        for(int i=0;i<nums.length;i++){
+            nums[i] = ans.get(i);
+        }
 
     }
+}
 
-    public static void mergeSort(int[] nums,int l,int r){
+    /*public static void mergeSort(int[] nums,int l,int r){
          if(l<r){
             int mid = (l+r)/2;
 
@@ -61,4 +84,4 @@ class Solution {
         }
 
     }
-}
+}*/
