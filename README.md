@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0540-single-element-in-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1036-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1720-crawler-log-folder) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
