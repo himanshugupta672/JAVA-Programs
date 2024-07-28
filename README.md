@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0127-word-ladder) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/himanshugupta672/JAVA-Programs/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0127-word-ladder) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1036-rotting-oranges) |
