@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1073-number-of-enclaves) |
 ## Union Find
@@ -144,10 +146,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0820-find-eventual-safe-states) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0130-surrounded-regions) |
 | [1036-rotting-oranges](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1073-number-of-enclaves) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
