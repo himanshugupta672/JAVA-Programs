@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0876-hand-of-straights) |
 | [1036-rotting-oranges](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1073-number-of-enclaves) |
 | [1293-three-consecutive-odds](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1293-three-consecutive-odds) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0127-word-ladder) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0876-hand-of-straights) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/himanshugupta672/JAVA-Programs/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -46,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0876-hand-of-straights) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0876-hand-of-straights) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
