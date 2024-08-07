@@ -19,8 +19,8 @@ class Solution {
                 temp = temp.next;
             }
         }
-
-        ListNode newHead = new ListNode(-1);
+        if(pq.isEmpty()) return null;
+        ListNode newHead = new ListNode(pq.remove());
         ListNode temp = newHead;
 
         while(!pq.isEmpty()){
@@ -28,6 +28,6 @@ class Solution {
             temp.next = newNode;
             temp = temp.next;
         }
-        return newHead.next;
+        return newHead;
     }
 }
