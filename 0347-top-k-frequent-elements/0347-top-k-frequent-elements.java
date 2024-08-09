@@ -18,9 +18,8 @@ class Solution {
             hm.put(i,hm.getOrDefault(i,0)+1);
         }
         for(int i: hm.keySet()){
-            Pair p = new Pair(i,hm.get(i));
             if(pq.size()<k){
-                pq.add(p);
+                pq.add(new Pair(i,hm.get(i)));
             }else if(hm.get(i)>pq.peek().freq){
                 pq.remove();
                 pq.add(new Pair(i,hm.get(i)));
