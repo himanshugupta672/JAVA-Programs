@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1073-number-of-enclaves) |
 | [1293-three-consecutive-odds](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1293-three-consecutive-odds) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1966-frequency-of-the-most-frequent-element) |
