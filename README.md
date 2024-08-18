@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0128-longest-consecutive-sequence) |
+| [0264-ugly-number-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0560-subarray-sum-equals-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0264-ugly-number-ii) |
 | [1642-water-bottles](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -238,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0053-maximum-subarray) |
+| [0264-ugly-number-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
