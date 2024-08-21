@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0128-longest-consecutive-sequence) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0650-2-keys-keyboard) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0242-valid-anagram) |
