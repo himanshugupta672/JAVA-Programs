@@ -255,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0650-2-keys-keyboard) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
