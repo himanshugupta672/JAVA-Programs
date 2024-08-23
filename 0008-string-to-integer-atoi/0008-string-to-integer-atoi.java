@@ -16,7 +16,7 @@ class Solution {
             else if(sign*sum>Integer.MAX_VALUE) return Integer.MAX_VALUE;
             i++;
         }
-        return (int) (sign*sum);
+        return (int)(sign*sum);
 
     }
 }
