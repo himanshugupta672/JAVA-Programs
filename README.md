@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0876-hand-of-straights) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1720-crawler-log-folder) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
 ## Design
 |  |
