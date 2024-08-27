@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0347-top-k-frequent-elements) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0328-odd-even-linked-list) |
