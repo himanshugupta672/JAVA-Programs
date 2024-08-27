@@ -15,17 +15,19 @@ class Solution {
         ListNode dummyNode = new ListNode(-1);
         ListNode curr = dummyNode;
         int c=0;
-        while(t1!=null&&t2!=null){
-            int sum = t1.val+t2.val+c;
+        while(t1!=null||t2!=null){
+            int sum=c;
+            if(t1!=null) sum+=t1.val;
+            if(t2!=null) sum+=t2.val;
             c=sum/10;
             sum=sum%10;
             ListNode newNode = new ListNode(sum);
             curr.next= newNode;
             curr = newNode;
-            t1 = t1.next;
-            t2=t2.next;
+            if(t1!=null) t1 = t1.next;
+            if(t2!=null) t2=t2.next;
         }
-        if(t1!=null){
+        /*if(t1!=null){
             while(t1!=null){
                 int sum = c+t1.val;
                 c=sum/10;
@@ -46,7 +48,7 @@ class Solution {
                 curr = newNode;
                 t2 = t2.next;
             }
-        }
+        }*/
         if(c==1){
             ListNode newNode = new ListNode(1);
             curr.next= newNode;
