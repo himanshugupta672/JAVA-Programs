@@ -10,6 +10,7 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
+        /* Burute force
         if(head==null||head.next==null||head.next.next==null) return head;
         ArrayList<Integer> ans = new ArrayList<>();
         ListNode temp = head;
@@ -28,6 +29,19 @@ class Solution {
             temp.val = n;
             temp = temp.next;
         }
+        return head;*/
+        if(head==null||head.next==null||head.next.next==null) return head;
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode evenHead = head.next;
+        // check only for even as odd will always behind that so if even true odd also
+        while(even!=null&&even.next!=null){
+            odd.next = even.next;
+            odd = odd.next;
+            even.next = odd.next;
+            even = even.next;
+        }
+        odd.next = evenHead;
         return head;
     }
 }
