@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0141-linked-list-cycle) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0264-ugly-number-ii) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1951-find-the-winner-of-the-circular-game) |
