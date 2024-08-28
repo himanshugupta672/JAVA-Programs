@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0387-first-unique-character-in-a-string) |
+| [0812-rotate-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1720-crawler-log-folder) |
@@ -293,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0476-number-complement) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
