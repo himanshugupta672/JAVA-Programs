@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0283-move-zeroes) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0650-2-keys-keyboard) |
 ## Bit Manipulation
