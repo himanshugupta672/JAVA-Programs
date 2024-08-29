@@ -17,9 +17,8 @@ class MyQueue {
             s2.add(s1.pop());
         }
         }
-        int x = s2.peek();
-        s2.pop();
-        return x;
+        
+        return s2.pop();
     }
     
     public int peek() {
@@ -29,8 +28,7 @@ class MyQueue {
             s2.add(s1.pop());
             }
         }
-        int x = s2.peek();
-        return x;
+        return s2.peek();
     }
     
     public boolean empty() {
