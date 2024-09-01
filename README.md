@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/himanshugupta672/JAVA-Programs/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/himanshugupta672/JAVA-Programs/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/himanshugupta672/JAVA-Programs/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/himanshugupta672/JAVA-Programs/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0130-surrounded-regions) |
 | [1036-rotting-oranges](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1073-number-of-enclaves) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/himanshugupta672/JAVA-Programs/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Topological Sort
 |  |
 | ------- |
