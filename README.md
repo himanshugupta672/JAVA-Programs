@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0387-first-unique-character-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1720-crawler-log-folder) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0678-valid-parenthesis-string) |
 ## Bit Manipulation
 |  |
 | ------- |
