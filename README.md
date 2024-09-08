@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1803-average-waiting-time) |
+| [1829-maximum-units-on-a-truck](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1829-maximum-units-on-a-truck) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/himanshugupta672/JAVA-Programs/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0876-hand-of-straights) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1829-maximum-units-on-a-truck](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1829-maximum-units-on-a-truck](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
