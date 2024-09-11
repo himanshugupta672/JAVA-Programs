@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0496-next-greater-element-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0876-hand-of-straights) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0678-valid-parenthesis-string) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0264-ugly-number-ii) |
+| [0435-non-overlapping-intervals](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0678-valid-parenthesis-string) |
 ## Bit Manipulation
