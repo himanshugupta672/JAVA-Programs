@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0876-hand-of-straights) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/himanshugupta672/JAVA-Programs/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/himanshugupta672/JAVA-Programs/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0812-rotate-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1078-remove-outermost-parentheses](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1720-crawler-log-folder) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Design
 |  |
