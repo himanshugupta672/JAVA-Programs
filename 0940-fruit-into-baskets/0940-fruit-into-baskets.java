@@ -5,7 +5,7 @@ class Solution {
         int r=0;
         HashMap<Integer,Integer> hm = new HashMap<>();
         int maxLen = 0;
-        while(l<n&&r<n){
+        while(r<n){
             hm.put(fruits[r],hm.getOrDefault(fruits[r],0)+1);
             if(hm.size()>2){
                     hm.put(fruits[l],hm.get(fruits[l])-1);
