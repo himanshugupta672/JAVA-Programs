@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0890-lemonade-change) |
+| [0940-fruit-into-baskets](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1073-number-of-enclaves) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0940-fruit-into-baskets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/himanshugupta672/JAVA-Programs/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/himanshugupta672/JAVA-Programs/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
