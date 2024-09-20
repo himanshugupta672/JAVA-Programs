@@ -38,7 +38,7 @@ class Solution {
         int l=0;
         int r=0;
         int zero=0;
-        int max= Integer.MIN_VALUE;
+        int max= 0;
         while(r<nums.length){
             if(nums[r]==0){
                 zero++;
@@ -48,8 +48,7 @@ class Solution {
                     zero--;
                 }
                 l++;
-            }
-            if(zero<=k){
+            }else{
                 max = Math.max(max,r-l+1);
             }
             r++;
