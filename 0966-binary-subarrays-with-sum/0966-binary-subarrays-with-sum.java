@@ -1,25 +1,15 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-         return calculate(nums,goal) - calculate(nums,goal-1);
-    }
-     public static int calculate(int []arr,int k){
-        if(k<0){
-            return 0;
-        }
-        int sum =0;
-        int l=0;
-        int r=0;
+        int n = nums.length;
         int c=0;
-        while(r<arr.length){
-            sum += arr[r];
-            while(sum>k){
-                sum = sum-arr[l];
-                l++;
+        for(int i=0;i<n;i++){
+            int sum=0;
+            for(int j=i;j<n;j++){
+                sum+=nums[j];
+                if(sum==goal){
+                    c++;
+                }else if(sum>goal) break;
             }
-            /*here we are taking number of subarray upto that particular length which must be
-             equal to the length of subarray at that point*/
-            c+= (r-l+1);
-            r++;
         }
         return c;
     }
