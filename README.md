@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/himanshugupta672/JAVA-Programs/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1046-max-consecutive-ones-iii) |
