@@ -253,11 +253,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/himanshugupta672/JAVA-Programs/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/himanshugupta672/JAVA-Programs/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0547-number-of-provinces) |
