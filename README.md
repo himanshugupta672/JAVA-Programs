@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/himanshugupta672/JAVA-Programs/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/himanshugupta672/JAVA-Programs/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3195-separate-black-and-white-balls](https://github.com/himanshugupta672/JAVA-Programs/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3195-separate-black-and-white-balls](https://github.com/himanshugupta672/JAVA-Programs/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/himanshugupta672/JAVA-Programs/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/himanshugupta672/JAVA-Programs/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3195-separate-black-and-white-balls](https://github.com/himanshugupta672/JAVA-Programs/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
